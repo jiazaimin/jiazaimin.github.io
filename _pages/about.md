@@ -9,8 +9,9 @@ redirect_from:
 ---
 个人简历
 ======
-姓名：贾再民.
-性别：男.
+姓名：贾再民  
+性别：男  
+
 
 A data-driven personal website
 ======
