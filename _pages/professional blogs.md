@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Blogs"
-permalink: /Professional Blogs/
+permalink: /professional blogs/
 author_profile: true
 redirect_from:
   - /resume
