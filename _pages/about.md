@@ -10,8 +10,11 @@ redirect_from:
 
 
 <style>
-body { background-color: #000 !important; }
-h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+ <body background="jzm.jpg" 
+               style="background-repeat:no-repeat
+               background-attachment:fixed;
+               background-size:100% 100%; ">
+         </body>
 </style>
 
 
