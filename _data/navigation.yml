@@ -7,7 +7,16 @@ main:
     url: /education/    
 
   - title: "Social Activities"
-    url: /social activities/    
+    url: /social activities/     
+
+  - title: "Professional Practice"
+    url: /professional practice/    
+
+  - title: "Professional Skills"
+    url: /professional skills/    
+
+  - title: "Professional Blogs"
+    url: /professional blogs/    
     
   - title: "Publications"
     url: /publications/
