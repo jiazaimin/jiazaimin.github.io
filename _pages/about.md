@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![图片alt](jiazaimin.png "图片title")
 
 个人简历
 ======
