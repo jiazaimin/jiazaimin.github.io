@@ -14,6 +14,7 @@ redirect_from:
 
 2021.10 毕业论文查重系统  
 ------
-Cnblog[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's love")
-Github[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's hate")
+Cnblog[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's love")  
+Github[毕业论文查重系统 ](https://github.com/jiazaimin/11111 "come from jiazaimin's hate")  
+
  
