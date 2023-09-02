@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![图片alt](url:jzm.png "图片title")
 
 个人简历
 ======
