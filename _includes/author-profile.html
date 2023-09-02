@@ -25,6 +25,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+       {% if author.twitter %}
+        <li><a href="https://cnblogs.com/{{ author.cnblogs }}"><i class="fab fa-fw fa-cnblogs-square" aria-hidden="true"></i> Cnblogs</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
