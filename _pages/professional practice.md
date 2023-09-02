@@ -14,5 +14,6 @@ redirect_from:
 
 2021.10 毕业论文查重系统  
 ------
-博客园地址[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "超链接title")
+Cnblog[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's love")
+Github[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's hate")
  
