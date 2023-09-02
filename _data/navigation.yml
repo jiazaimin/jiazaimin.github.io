@@ -3,11 +3,10 @@ main:
   - title: "CV"
     url: /cv/  
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Education"
+    url: /education/    
 
-
-  - title: "Tsocial Activities"
+  - title: "Social Activities"
     url: /social activities/    
     
   - title: "Publications"
