@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 
-![图片alt](./jzm.png"图片title")
-
+<style>
+body { background-color: #000 !important; }
+h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+</style>
 
 
 个人简历
