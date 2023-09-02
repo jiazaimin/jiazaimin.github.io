@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-jiazaimin.github.io/images
-/jzm.png
+
 ![图片alt](./jzm.png"图片title")
 
 
