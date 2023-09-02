@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![图片alt](jzm.png "图片title")
+![图片alt](jiazaimin.github.io/images/jzm.png "图片title")
 
 个人简历
 ======
