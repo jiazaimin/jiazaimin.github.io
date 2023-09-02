@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-<style>
+
  <body background="[jzm.jpg](https://img-blog.csdnimg.cn/20201206222305541.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ4NDU1NTc2,size_16,color_FFFFFF,t_70)" 
                style="background-repeat:no-repeat
                background-attachment:fixed;
                background-size:100% 100%; ">
  </body>
-</style>
+
 
 
 个人简历
