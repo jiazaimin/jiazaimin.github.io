@@ -10,11 +10,11 @@ redirect_from:
 
 
 
- <body background="(https://img-blog.csdnimg.cn/20201206222305541.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ4NDU1NTc2,size_16,color_FFFFFF,t_70)" 
-               style="background-repeat:no-repeat
-               background-attachment:fixed;
-               background-size:100% 100%; ">
- </body>
+<style>
+body {  background="夕阳余晖.jpg" style="background-repeat:no-repeatbackground-attachment:fixed; background-size:100% 100%; background-color: #000 !important; }
+h1,h2,h3,h4,h5,h6,h7,p { color: #999 !important; }
+</style>
+
 
 
 
