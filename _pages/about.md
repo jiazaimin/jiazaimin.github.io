@@ -10,7 +10,7 @@ redirect_from:
 
 jiazaimin.github.io/images
 /jzm.png
-![图片alt](./images/jzm.png"图片title")
+![图片alt](./jzm.png"图片title")
 
 
 
