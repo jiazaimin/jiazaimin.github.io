@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-专业实践
+专业实践的
 ======  
 
 宠物家app    负责人  |  2022.3-2022.6
