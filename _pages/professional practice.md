@@ -28,6 +28,23 @@ Github
 [花卉商城管理系统](https://github.com/jiazaimin/FlowerMall "come from jiazaimin's hate") 
 
 
+
+老年人能力评估系统  |  负责人  |  2022.9-2022.10    
+------
+项目描述：本系统基于JavaWeb实现老年人数据评估，对评估老年人数据信息进行批量导入、根据相关文件进行评估、对评估的各项数据进行检索、查询。对老年人评估的数据进行统计分析，包括老年人注册或者信息导入；老年人能力定期评估；能力评估数据多条件查询；能力数据统计；能力数据导出等功能。
+项目职责：1.实现老年人数据信息导入与处理。2.实现老年人信息评估与查询。3.老年人用户体验与改进。
+
+Cnblog  
+------  
+个人博客：  
+[老年人能力评估系统-软件需求定义-大作业](https://www.cnblogs.com/jzm20204139/p/16720211.html "come from jiazaimin's love")  
+
+Github  
+------  
+项目源码：  
+[老年人能力评估系统](https://github.com/jiazaimin/ElderlyAssessment"come from jiazaimin's hate") 
+
+
 宠物家app   |   负责人  |  2022.3-2022.6
 ------
 项目描述：项目参加保护生物多样性编程大赛，基于Android Studio开发有关宠物爱好者认知，了解宠物种类等一系列有关宠物知识科普类app，包含搜宠物，宠物新闻，我的收藏等一系列功能，使用户进一步认识到生物多样性。  
