@@ -12,21 +12,27 @@ redirect_from:
 专业实践
 ======  
 
-老年人能力评估系统  |  负责人  |  2022.9-2022.10    
+
+北京市政百姓信件分析实战项目  |  负责人  |  2023.4-2023.5  
 ------
-项目描述：本系统基于JavaWeb实现老年人数据评估，对评估老年人数据信息进行批量导入、根据相关文件进行评估、对评估的各项数据进行检索、查询。对老年人评估的数据进行统计分析，包括老年人注册或者信息导入；老年人能力定期评估；能力评估数据多条件查询；能力数据统计；能力数据导出等功能。
-项目职责：1.实现老年人数据信息导入与处理。2.实现老年人信息评估与查询。3.老年人用户体验与改进。
+项目描述：使用python工具通过网络爬虫采集北京市政，编写MapReduce程序清洗信件内容数据，利用HiveSql语句离线分析信件内容数据，利用Sqoop导出Hive分析数据到MySQL数据库，JavaWeb ECharts完成信件数据图表展示过程，构建百姓意见知识图谱。
+项目职责：1.实现PyCharm网络爬虫。2.HiveSql语句的编写与应用。3.参与构建知识图谱。
 
 Cnblog  
 ------  
 个人博客：  
-[老年人能力评估系统-软件需求定义-大作业](https://www.cnblogs.com/jzm20204139/p/16720211.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目- 采集北京市政百姓信件内容](https://www.cnblogs.com/jzm20204139/p/17361802.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-编写MapReduce程序清洗信件内容数据](https://www.cnblogs.com/jzm20204139/p/17373456.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-利用HiveSql语句离线分析信件内容数据](https://www.cnblogs.com/jzm20204139/p/17390656.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-利用Sqoop导出Hive分析数据到MySQL库](https://www.cnblogs.com/jzm20204139/p/17390657.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-开发JavaWeb+ECharts完成信件数据图表展示过程](https://www.cnblogs.com/jzm20204139/p/17397305.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-构建百姓意见知识图谱](https://www.cnblogs.com/jzm20204139/p/17400776.html "come from jiazaimin's love")  
+[北京市政百姓信件分析实战项目-北京市政百姓信件分析实战源代码](https://www.cnblogs.com/jzm20204139/p/17411046.html "come from jiazaimin's love")  
 
 Github  
 ------  
 项目源码：  
-[花卉商城管理系统](https://github.com/jiazaimin/FlowerMall "come from jiazaimin's hate") 
-
+[北京市政百信信件分析实战项目](https://github.com/jiazaimin/BeijingMunicipalGovernment "come from jiazaimin's hate")   
 
 
 老年人能力评估系统  |  负责人  |  2022.9-2022.10    
