@@ -33,7 +33,7 @@ Cnblog
 [宠物家app-宠物家项目](https://www.cnblogs.com/jzm20204139/p/16245054.html "come from jiazaimin's love")  
 [宠物家app-宠物家项目](https://www.cnblogs.com/jzm20204139/p/16245054.html "come from jiazaimin's love")  
 团队博客：  
-[宠物家app-团队博客（这个队又不是没有高手](https://www.cnblogs.com/zhegedui "come from jiazaimin's love")  
+[宠物家app-团队博客（这个队又不是没有高手)](https://www.cnblogs.com/zhegedui "come from jiazaimin's love")  
 
 Github  
 ------
