@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Jia Zaimin's Academic Website"#Site Title
 title_separator          : "-"
+background               :"jzm.png"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jiazaimin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
