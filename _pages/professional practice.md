@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-专业实践的
+专业实践
 ======  
 
 宠物家app    负责人  |  2022.3-2022.6
@@ -36,13 +36,20 @@ Cnblog
 [宠物家app-团队博客（这个队又不是没有高手)](https://www.cnblogs.com/zhegedui "come from jiazaimin's love")  
 
 Github  
-------
+------  
+项目源码：  
 [宠物家app](https://github.com/jiazaimin/PetHome "come from jiazaimin's hate")  
 
 
-2021.10 毕业论文查重系统  
+花卉商城管理系统    负责人  |  2022.5-2022.6  
 ------
-Cnblog[毕业论文查重系统 ](https://www.cnblogs.com/jzm20204139/p/15411599.html "come from jiazaimin's love")  
-Github[毕业论文查重系统 ](https://github.com/jiazaimin/11111 "come from jiazaimin's hate")  
+项目描述：本网站是基于php开发实现的一款鲜花网上购物系统，主要功能包括商品搜索，加入购物车，商品支付，商品收货等一系列商城功能，基于网购开发完整的网上花卉购物网站。
+项目职责：1.商城项目功能需求与分析。2.实现商城前端界面设计与跳转。3.实现项目数据库设计与前端整合.
+
+Github  
+------  
+项目源码：  
+[花卉商城管理系统](https://github.com/jiazaimin/FlowerMall "come from jiazaimin's hate")  
+
 
  
