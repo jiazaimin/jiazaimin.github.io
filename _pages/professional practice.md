@@ -37,7 +37,7 @@ Cnblog
 
 Github  
 ------
-[宠物家app](https://github.com/jiazaimin/11111 "come from jiazaimin's hate")  
+[宠物家app](https://github.com/jiazaimin/PetHome "come from jiazaimin's hate")  
 
 
 2021.10 毕业论文查重系统  
