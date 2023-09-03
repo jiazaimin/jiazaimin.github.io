@@ -24,9 +24,9 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
-       {% if author.cnblogs %}
-        <li><a href="https://www.cnblogs.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-squre" aria-hidden="true"></i> Cnblogs</a></li>
+      {% endif %}  
+       {% if author.twitter %}
+        <li><a href="https://www.cnblogs.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
