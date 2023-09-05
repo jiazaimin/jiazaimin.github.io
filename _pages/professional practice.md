@@ -35,6 +35,23 @@ Github
 [北京市政百信信件分析实战项目](https://github.com/jiazaimin/BeijingMunicipalGovernment "come from jiazaimin's hate")   
 
 
+观影大数据分析项目  |  负责人  |  2022.11-2022.12    
+------
+项目描述：项目描述：使用电影相关数据集，进行数据清洗、数据挖掘、数据分析和数据可视化等，研究电影票房的影响因素有哪些？从不同的维度分析电影，分析结果。从包含1000部电影的基本信息，请你选择合适的指标，进行特征提取，建立机器学习的预测模型，预测 1000 部电影的 vote_average 和 vote_count，并保存为 tmdb_1000_predicted.csv。
+项目职责：1.观影大数据信息导入与处理。2.实现观影大数据信息评估与查询。3.开发观影大数据的模型建立与学习。
+
+Cnblog  
+------  
+个人博客：  
+[观影大数据分析项目-MathorCup 高校数学建模挑战赛——大数据竞赛（效果图）](https://www.cnblogs.com/jzm20204139/p/16976965.html "come from jiazaimin's love")  
+[观影大数据分析项目-MathorCup 高校数学建模挑战赛——大数据竞赛（源代码）](https://www.cnblogs.com/jzm20204139/p/16980531.html "come from jiazaimin's love")  
+
+Github  
+------  
+项目源码：  
+[观影大数据分析项目](https://github.com/jiazaimin/ViewingBigData") 
+
+
 老年人能力评估系统  |  负责人  |  2022.9-2022.10    
 ------
 项目描述：本系统基于JavaWeb实现老年人数据评估，对评估老年人数据信息进行批量导入、根据相关文件进行评估、对评估的各项数据进行检索、查询。对老年人评估的数据进行统计分析，包括老年人注册或者信息导入；老年人能力定期评估；能力评估数据多条件查询；能力数据统计；能力数据导出等功能。
